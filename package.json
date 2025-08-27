@@ -1,0 +1,20 @@
+{
+  "name": "typescript-intro",
+  "version": "1.0.0",
+  "description": "- udemy     JavaScript エンジニアのためのハンズオンで学ぶ TypeScript 徹底入門 2025 年最新版",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Romu-ua/typescript-intro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Romu-ua/typescript-intro/issues"
+  },
+  "homepage": "https://github.com/Romu-ua/typescript-intro#readme"
+}
