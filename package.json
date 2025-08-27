@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Romu-ua/typescript-intro/issues"
   },
-  "homepage": "https://github.com/Romu-ua/typescript-intro#readme"
+  "homepage": "https://github.com/Romu-ua/typescript-intro#readme",
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  }
 }
