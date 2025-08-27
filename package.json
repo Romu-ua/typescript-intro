@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/Romu-ua/typescript-intro#readme",
   "devDependencies": {
-    "typescript": "^5.9.2"
+    "tsx": "^4.20.5"
   }
 }
